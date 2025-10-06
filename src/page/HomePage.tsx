@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function HomePage() {
-     return <div>Hola mundo desde la Home page</div>;
+     return <div className="">Hola mundo desde la Home page</div>;
 }
